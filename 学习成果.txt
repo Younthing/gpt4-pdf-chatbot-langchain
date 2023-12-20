@@ -1,0 +1,9 @@
+使用bun安装了所有的包
+
+运行bun run 
+
+由于api-base无法修改，无法连接
+
+最后发现是环境变量名变了OPENAI_BASE_URL
+
+设置为https://openai-api.helixlife.app/v1
